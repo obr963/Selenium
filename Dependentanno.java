@@ -16,6 +16,7 @@ public class Dependentanno {
 	@Test(enabled=false)
 	public void payment() {
 	System.out.println("Issue testcase");
+System.out.println("Issue testcase");
 	}
 
 }
